@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alex 🐳
 
 Former NYC Product Manager, now working remotely · I build inclusive products for regulated spaces.
 
