@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-NYC Product Manager working remote · I build inclusive products in regulated spaces.
+Former NYC Product Manager, now working remotely · I build inclusive products for regulated spaces.
 
 ## What I work on
 - 🧭 Product strategy for AI, complex systems, and scalability
@@ -11,4 +11,4 @@ NYC Product Manager working remote · I build inclusive products in regulated sp
 8+ years in product across American Express, Citi, legal tech and web3, plus 15 years in UX and brand design.
 
 ## Currently
-Experimenting with emerging tech & shipping my ideas. This GitHub is where I build in public.
+Experimenting with emerging tech & shipping my ideas. GitHub is where I build in public. New to Github, be nice! ;)
