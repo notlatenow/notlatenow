@@ -6,7 +6,7 @@ Former NYC Product Manager, now working remotely · I enjoy building inclusive p
 I'm open to new professional opportunities. Keenly interested in tech-forward organizations, well-established async/distributed cultures, and complex product surface areas. 
 
 ## Who
-10+ years in product across B2B, Fintech, legal tech and web3. Plus 15 years in project management, UX and brand design.
+10+ years in product across B2B, Fintech, legal tech and web3. Prior to product, worked with global companies in project management, UX and brand design.
 
 ## What & Why
 🤖 Product strategy for AI, complex systems, and scalability<br>
