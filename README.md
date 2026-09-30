@@ -3,8 +3,8 @@
 Former NYC Product Manager, now working remotely · I build inclusive products for regulated spaces.
 
 ## What I work on
-🤖 Product strategy for AI, complex systems, and scalability
-🫧 Generative art experiments
+🤖 Product strategy for AI, complex systems, and scalability<br>
+🫧 Generative art experiments<br>
 🙌 Customer-first features: laser-focused on accessibility for a wide variety of users
 
 ## Background
