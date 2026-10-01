@@ -1,6 +1,6 @@
 # Hi, I'm Alex 🐳
 
-Former NYC Product Manager, working remotely. I enjoy building inclusive products across industries.
+Former NYC Product Manager, working remotely. I enjoy building impactful & inclusive products.
 
 ## Where
 I'm open to new professional opportunities. Keenly interested in tech-forward organizations, well-established async/distributed cultures, and complex product surface areas. 
