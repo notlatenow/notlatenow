@@ -18,5 +18,4 @@ I'm open to new professional opportunities. Keenly interested in tech-forward or
 Experimenting with emerging tech & shipping my ideas. GitHub is where I build in public. 
 
 ## When
-![GitHub Streak](https://streak-stats.demolab.com?user=notlatenow&hide_border=true&mode=weekly&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=notlatenow&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=12AEFF32&fire=1BCCEB&dates=98989882&sideLabels=11A0EB76&sideNums=0A73CF&currStreakNum=0A73CF&currStreakLabel=26B0D3)](https://git.io/streak-stats)
