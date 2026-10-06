@@ -3,7 +3,7 @@
 Former NYC Product Manager, working remotely. I enjoy building impactful & inclusive products.
 
 ## Where
-I'm open to new professional opportunities. Keenly interested in tech-forward organizations, well-established async/distributed cultures, and complex product surface areas. 
+Keenly interested in tech-forward organizations, well-established async/distributed cultures, and complex product surface areas. I'm open to new opportunities. 
 
 ## Who
 10+ years in product across B2B, Fintech, legal tech and web3. Prior to product, worked with global companies in project management, UX and brand design.
